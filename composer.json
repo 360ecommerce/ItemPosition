@@ -1,0 +1,8 @@
+{
+    "name": "threesixty/itemposition",
+    "description": "Item Position",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
